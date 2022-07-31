@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f4d5bd13c52d764daebf71d80531cd1, type: 3}
+  m_Name: EnemyAttack
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 6123003023063038561, guid: 22a0f09bf67fe5747ac951131366bfcd, type: 3}
+  xOffset: 0
+  type: 0
+  projectiles:
+  - {fileID: 8014956260612979820, guid: 89fe82ed9e36e82449a784b3fdf9098d, type: 3}
+  spread: 0
+  spawnDelay: 0
+  pierceReduction: 0
+  initialVelocity: {x: 0, y: 0}
+  damagePerProjectile: 45
+  projectileLifetime: 0.5
+  fireCooldown: 0.5
+  reloadTime: 0.1
+  MaxAmmo: 1
+  weight: 0
+  fullAuto: 0
+  weaponType: 0
+  price: 0

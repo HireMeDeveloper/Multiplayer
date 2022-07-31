@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83dcc8e4827558e4582eca76e456beec, type: 3}
+  m_Name: HealthIncreasePerkSO
+  m_EditorClassIdentifier: 
+  perkName: Tower Defender
+  perkIcon: {fileID: 485316292, guid: 1f94eb23a9ce9c245989d6523e0d7437, type: 3}
+  proPerkIcon: {fileID: 1423569932, guid: 1f94eb23a9ce9c245989d6523e0d7437, type: 3}
+  perkDescription: Increase player health by 50.
+  proPerkDescription: 
+  increaseAmount: 50
